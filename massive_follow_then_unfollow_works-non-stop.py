@@ -53,6 +53,6 @@ with smart_run(session):
     #session.follow_user_followers(['user1', 'user2', 'user3'], amount=8000, randomize=False, interact=True)
     #session.unfollow_users(amount=1000, nonFollowers=True, style="LIFO", unfollow_after=0, sleep_delay=501)
     #session.unfollow_users(amount=1000, InstapyFollowed=(True, "all"), style="FIFO", unfollow_after=0, sleep_delay=501)
-    session.like_by_tags(['austinoffices','austinvacationrentals', 'austinofficespace'], amount=500, interact=False)
+    session.like_by_tags(['austinsmallbusiness'], amount=1000, interact=False)
     #session.like_by_tags(['austinairbnb'], amount=1000)
     #session.unfollow_users(amount=7500, nonFollowers=True, style="RANDOM", unfollow_after=42*60*60, sleep_delay=3)

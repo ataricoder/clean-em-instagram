@@ -20,5 +20,10 @@ The main program is called **'massive**\_**follow**\_**then**\_**unfollow**\_**w
 
 And you can run it by typing `sudo python3 massive_follow_then_unfollow_works-non-stop.py`in a Unix terminal.
 
-The `sudo` may or may not be necessary if you have administrative privileges, but to err on the safe side  include it. 
+The `sudo` may or may not be necessary if you have administrative privileges, but to err on the safe side  include it.
 
+## Logs
+
+The InstaPy output for several iterations is logged in **nohup.out**
+
+Information like number of likes, follows and comments is stored in this file for each run of the script.
