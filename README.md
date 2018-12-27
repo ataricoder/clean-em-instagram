@@ -11,7 +11,7 @@ Keep this repo private, and add all credentials to the main program.
 
 -dany
 
-##Pre-Requisites
+## Pre-Requisites
 Minimum:
 * 1 GB RAM 
 * Python 2.7
@@ -33,7 +33,7 @@ The `sudo` may or may not be necessary if you have administrative privileges, bu
 To leave the process running after logging out of a server use the `nohup` command.
 `nohup` ignores the Hang Up (HUP) signal that the terminal sends when logging out.
 
-**E.g.**
+**E.g.**<br>
 `nohup sudo python3 massive_follow_then_unfollow_works-non-stop.py &`
 
 To see the output of the script before or after logging out use: `tail -f nohup.out`
