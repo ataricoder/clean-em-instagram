@@ -9,7 +9,7 @@ from instapy.util import smart_run
 
 
 # get a session!
-session = InstaPy(username='bernovie', password='starwars25i', disable_image_load=True, multi_logs=True,  bypass_suspicious_attempt=True, headless_browser=True, nogui=True)
+session = InstaPy(username='', password='', disable_image_load=True, multi_logs=True,  bypass_suspicious_attempt=True, headless_browser=True, nogui=True)
 
 
 # let's go! :>

@@ -1,0 +1,606 @@
+INFO [2019-01-12 01:25:22] [clean.em]  Session started!
+INFO [2019-01-12 01:25:56] [clean.em]  Logged in successfully!
+INFO [2019-01-12 01:25:56] [clean.em]  Saving account progress...
+INFO [2019-01-12 01:26:01] [clean.em]  Tag [1/8]
+INFO [2019-01-12 01:26:01] [clean.em]  --> b'realestate'
+INFO [2019-01-12 01:26:09] [clean.em]  desired amount: 200  |  top posts [disabled]: 9  |  possible posts: 20746994
+INFO [2019-01-12 01:27:07] [clean.em]  [1/200]
+INFO [2019-01-12 01:27:07] [clean.em]  https://www.instagram.com/p/BshBikLnyBS/
+INFO [2019-01-12 01:27:10] [clean.em]  Image from: b'aged007'
+INFO [2019-01-12 01:27:10] [clean.em]  Link: b'https://www.instagram.com/p/BshBikLnyBS/'
+INFO [2019-01-12 01:27:10] [clean.em]  Description: b'Another happy homeowner. Congratulations to the Jacksons on your new purchase and the memories to be made. \nThe market is still good in Orlando. If you are looking to sell or buy a home, feel free to contact a real estate professional at 321-287-0787\nOR\nFeel free to visit: http://adrian.ameriteamrealty.com\nOR\nEmail: adrianldavis007@gmail.com\n#ameriteamrealty #realestate #realtor'
+INFO [2019-01-12 01:27:19] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:27:21] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/98ea6b56c9cdfeaa8cbf2659007d2a97/5CCDC895/t51.2885-15/e35/47693633_777479709279781_570948105307645323_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['people']
+INFO [2019-01-12 01:27:21] [clean.em]  --> Not commented
+INFO [2019-01-12 01:27:23] [clean.em]  --> Followed 'b'aged007''!
+INFO [2019-01-12 01:27:26] [clean.em]  --> User gonna be interacted: 'aged007'
+INFO [2019-01-12 01:27:26] [clean.em]  Username [1/1]
+INFO [2019-01-12 01:27:26] [clean.em]  --> b'aged007'
+INFO [2019-01-12 01:27:29] [clean.em]  Getting aged007 image list...
+INFO [2019-01-12 01:27:33] [clean.em]  ---> aged007 has already been followed 1 times
+INFO [2019-01-12 01:27:33] [clean.em]  --> Not following
+INFO [2019-01-12 01:27:34] [clean.em]  Post [1/2]
+INFO [2019-01-12 01:27:34] [clean.em]  https://www.instagram.com/p/Bj04vJTHUv1/
+INFO [2019-01-12 01:27:38] [clean.em]  Image from: b'aged007'
+INFO [2019-01-12 01:27:38] [clean.em]  Link: b'https://www.instagram.com/p/Bj04vJTHUv1/'
+INFO [2019-01-12 01:27:38] [clean.em]  Description: b'Tennessee Unassigned Ministry was great and a fun vacation with family and friends. #jwinspirational #jw'
+INFO [2019-01-12 01:27:40] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:27:43] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/320c789dcf4854c81fab49f63b521ce6/5CCE1E25/t51.2885-15/e35/33403666_1834502506615337_7287047213262307328_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+[]
+INFO [2019-01-12 01:27:43] [clean.em]  --> Commented: b'Nice!'
+INFO [2019-01-12 01:27:46] [clean.em]  Post [2/2]
+INFO [2019-01-12 01:27:46] [clean.em]  https://www.instagram.com/p/BjD2Qd6Ah9x/
+INFO [2019-01-12 01:27:48] [clean.em]  Image from: b'aged007'
+INFO [2019-01-12 01:27:48] [clean.em]  Link: b'https://www.instagram.com/p/BjD2Qd6Ah9x/'
+INFO [2019-01-12 01:27:48] [clean.em]  Description: b'No description'
+INFO [2019-01-12 01:27:50] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:27:53] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/535026d091573067ced061941cb37ad4/5CD03B32/t51.2885-15/e35/32097762_2196240503725092_5127525489191157760_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['food & beverages']
+INFO [2019-01-12 01:27:53] [clean.em]  --> Commented: b'Tasty!'
+INFO [2019-01-12 01:27:55] [clean.em]  User: b'aged007'
+INFO [2019-01-12 01:27:55] [clean.em]  Liked: 2
+INFO [2019-01-12 01:27:55] [clean.em]  Already Liked: 0
+INFO [2019-01-12 01:27:55] [clean.em]  Commented: 2
+INFO [2019-01-12 01:27:55] [clean.em]  Inappropriate: 0
+INFO [2019-01-12 01:27:55] [clean.em]  Not valid users: 0
+
+INFO [2019-01-12 01:27:55] [clean.em]  [2/200]
+INFO [2019-01-12 01:27:55] [clean.em]  https://www.instagram.com/p/BshBg8pH08Z/
+INFO [2019-01-12 01:27:58] [clean.em]  Image from: b's_j_r_2020'
+INFO [2019-01-12 01:27:58] [clean.em]  Link: b'https://www.instagram.com/p/BshBg8pH08Z/'
+INFO [2019-01-12 01:27:58] [clean.em]  Description: b'Everybody loves a good elephant shirt!\xf0\x9f\x90\x98\n#elephant #shirt #suit #tie #suitandtie #man #realestate #realtor #realtorlife #business #friday .\n.\n.\n#work #worklife #working #workworkwork #mylife #love #gaystagram #instagay #gay #gayboy #gaymen #gayman'
+INFO [2019-01-12 01:28:05] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:28:07] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/00a6158a7c188a3a05c2860b507b6cdf/5CC21F6E/t51.2885-15/e35/49667533_138366833747300_8991054967769714207_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['people']
+INFO [2019-01-12 01:28:07] [clean.em]  --> Not commented
+INFO [2019-01-12 01:28:09] [clean.em]  --> Followed 'b's_j_r_2020''!
+INFO [2019-01-12 01:28:12] [clean.em]  --> User gonna be interacted: 's_j_r_2020'
+INFO [2019-01-12 01:28:12] [clean.em]  Username [1/1]
+INFO [2019-01-12 01:28:12] [clean.em]  --> b's_j_r_2020'
+INFO [2019-01-12 01:28:15] [clean.em]  Getting s_j_r_2020 image list...
+INFO [2019-01-12 01:28:18] [clean.em]  ---> s_j_r_2020 has already been followed 1 times
+INFO [2019-01-12 01:28:18] [clean.em]  --> Not following
+INFO [2019-01-12 01:28:19] [clean.em]  Post [1/2]
+INFO [2019-01-12 01:28:19] [clean.em]  https://www.instagram.com/p/Bpsd6JtHm-y/
+INFO [2019-01-12 01:28:21] [clean.em]  Image from: b's_j_r_2020'
+INFO [2019-01-12 01:28:21] [clean.em]  Link: b'https://www.instagram.com/p/Bpsd6JtHm-y/'
+INFO [2019-01-12 01:28:21] [clean.em]  Description: b'Lunch with these Beautiful ladies \xf0\x9f\x96\xa4\nIt\xe2\x80\x99s all about the eyes \xf0\x9f\x91\x84\n#iflookscouldkill .\n.\n.\n.\nindianfood #lentils #yum #friends #love #businessman #realtor #realtorlife #realtors #realestate #gayguy #gaystagram #instagay #friday #goodvibes'
+INFO [2019-01-12 01:28:24] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:28:26] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/63b906fa0d7a33e8f1c61ee915db4868/5CC1EF88/t51.2885-15/e35/43985058_702793650106023_7852206415034174390_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+[]
+INFO [2019-01-12 01:28:26] [clean.em]  --> Not commented
+INFO [2019-01-12 01:28:27] [clean.em]  Post [2/2]
+INFO [2019-01-12 01:28:27] [clean.em]  https://www.instagram.com/p/BpuWXTaHxqe/
+INFO [2019-01-12 01:28:30] [clean.em]  Image from: b's_j_r_2020'
+INFO [2019-01-12 01:28:30] [clean.em]  Link: b'https://www.instagram.com/p/BpuWXTaHxqe/'
+INFO [2019-01-12 01:28:30] [clean.em]  Description: b'Birthday month is here! #scorpio #scorpioseason \xe2\x99\x8f\xef\xb8\x8f\n#birthday #birthdaycake #november .\n.\n.\n.\n#fall #love #instagood #instame #instabirthday #instafall #gay #gayboy #gayguy #instagay #gaystagram #la #mylife #goodvibes #love'
+INFO [2019-01-12 01:28:32] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:28:35] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/31b15b3de28691e26c6688c2f3d92aa9/5CD21F66/t51.2885-15/e35/44718719_556268881491526_7123382290993141612_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['people', 'wedding']
+INFO [2019-01-12 01:28:35] [clean.em]  --> Not commented
+INFO [2019-01-12 01:28:36] [clean.em]  User: b's_j_r_2020'
+INFO [2019-01-12 01:28:36] [clean.em]  Liked: 2
+INFO [2019-01-12 01:28:36] [clean.em]  Already Liked: 0
+INFO [2019-01-12 01:28:36] [clean.em]  Commented: 0
+INFO [2019-01-12 01:28:36] [clean.em]  Inappropriate: 0
+INFO [2019-01-12 01:28:36] [clean.em]  Not valid users: 0
+
+INFO [2019-01-12 01:28:36] [clean.em]  [3/200]
+INFO [2019-01-12 01:28:36] [clean.em]  https://www.instagram.com/p/BshBg1uBtlI/
+INFO [2019-01-12 01:28:39] [clean.em]  Image from: b'archi7interior'
+INFO [2019-01-12 01:28:39] [clean.em]  Link: b'https://www.instagram.com/p/BshBg1uBtlI/'
+INFO [2019-01-12 01:28:39] [clean.em]  Description: b'@archilovers1 #architecture #interior #exterior #lifestyle #furniture #instagram #insta #house #instadaily #luxuryhome #luxuryhouse #realestate #instagood #building #interiorlover #homedesign #interiordesign #dreamhouse #luxury_house #interiores #designlovers \n#luxury_home #archi7interior #interiordecor #interiorlovers #interiordesigner #interiorstyling #architects #archilovers'
+INFO [2019-01-12 01:28:46] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:28:49] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/0274b46d5215ff823d5b1468565937a2/5CC426E0/t51.2885-15/e35/49735484_523619544798238_902881551942724181_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+[]
+INFO [2019-01-12 01:28:49] [clean.em]  --> Commented: b'Looks good!'
+INFO [2019-01-12 01:28:51] [clean.em]  --> Followed 'b'archi7interior''!
+INFO [2019-01-12 01:28:55] [clean.em]  --> User gonna be interacted: 'archi7interior'
+INFO [2019-01-12 01:28:55] [clean.em]  Username [1/1]
+INFO [2019-01-12 01:28:55] [clean.em]  --> b'archi7interior'
+INFO [2019-01-12 01:28:58] [clean.em]  Getting archi7interior image list...
+INFO [2019-01-12 01:29:02] [clean.em]  ---> archi7interior has already been followed 1 times
+INFO [2019-01-12 01:29:02] [clean.em]  --> Not following
+INFO [2019-01-12 01:29:02] [clean.em]  Post [1/2]
+INFO [2019-01-12 01:29:02] [clean.em]  https://www.instagram.com/p/BrgxbKChS-D/
+INFO [2019-01-12 01:29:04] [clean.em]  Image from: b'archi7interior'
+INFO [2019-01-12 01:29:04] [clean.em]  Link: b'https://www.instagram.com/p/BrgxbKChS-D/'
+INFO [2019-01-12 01:29:04] [clean.em]  Description: b'@archilovers1 #architecture #interior #exterior #lifestyle #furniture #instagram #insta #house #instadaily #luxuryhome #luxuryhouse #realestate #instagood #building #interiorlover #homedesign #interiordesign #dreamhouse #luxury_house #interiores #designlovers \n#luxury_home #archi7interior #interiordecor #interiorlovers #interiordesigner #interiorstyling #architects #archilovers'
+INFO [2019-01-12 01:29:07] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:29:09] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/515d84026745b9b1f33020398770fe44/5CCA3BDB/t51.2885-15/e35/46652637_584450071988096_6839869746246369916_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['living room']
+INFO [2019-01-12 01:29:09] [clean.em]  --> Not commented
+INFO [2019-01-12 01:29:10] [clean.em]  Post [2/2]
+INFO [2019-01-12 01:29:10] [clean.em]  https://www.instagram.com/p/BsA9l16Bw2z/
+INFO [2019-01-12 01:29:14] [clean.em]  Image from: b'archi7interior'
+INFO [2019-01-12 01:29:14] [clean.em]  Link: b'https://www.instagram.com/p/BsA9l16Bw2z/'
+INFO [2019-01-12 01:29:14] [clean.em]  Description: b'@archilovers1 #architecture #interior #exterior #lifestyle #furniture #instagram #insta #house #instadaily #luxuryhome #luxuryhouse #realestate #instagood #building #interiorlover #homedesign #interiordesign #dreamhouse #luxury_house #interiores #designlovers \n#luxury_home #archi7interior #interiordecor #interiorlovers #interiordesigner #interiorstyling #architects #archilovers'
+INFO [2019-01-12 01:29:15] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:29:18] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/c8ee1f4834df56ad17d41bfd653cf322/5CD6C2D1/t51.2885-15/e35/47582035_2422516694486646_4172253863163587638_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['living room']
+INFO [2019-01-12 01:29:18] [clean.em]  --> Commented: b"That's a cool lounge!\xf0\x9f\x92\xaf\xf0\x9f\x92\xaf\xf0\x9f\x92\xaf @archi7interior"
+INFO [2019-01-12 01:29:20] [clean.em]  User: b'archi7interior'
+INFO [2019-01-12 01:29:20] [clean.em]  Liked: 2
+INFO [2019-01-12 01:29:20] [clean.em]  Already Liked: 0
+INFO [2019-01-12 01:29:20] [clean.em]  Commented: 1
+INFO [2019-01-12 01:29:20] [clean.em]  Inappropriate: 0
+INFO [2019-01-12 01:29:20] [clean.em]  Not valid users: 0
+
+INFO [2019-01-12 01:29:20] [clean.em]  [4/200]
+INFO [2019-01-12 01:29:20] [clean.em]  https://www.instagram.com/p/BshBau_lM7V/
+INFO [2019-01-12 01:29:22] [clean.em]  Image from: b'highrockrealestate'
+INFO [2019-01-12 01:29:22] [clean.em]  Link: b'https://www.instagram.com/p/BshBau_lM7V/'
+INFO [2019-01-12 01:29:22] [clean.em]  Description: b'Come through and see our open house this Saturday and Sunday from 12-4! \nhttps://www.highrockre.com/property/2846-niagara-street-denver-colorado-5521246 \n#denver #denvercolorado #colorado #stapleton #realestate #denverrealestate #denverrealtor #houseforsale #forsale #homesforsale #welcomehome #home #highrockrealestate'
+INFO [2019-01-12 01:29:30] [clean.em]  --> Image Liked!
+ERROR [2019-01-12 01:29:58] [clean.em]  Image check error: POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs FAILED(1547256598.9725645). status_code: 400, reason: Bad Request, error_code: 10020, error_description: Failure, error_details: None
+ >> Python client 2.2.3 with Python 3.6.7 on linux
+ >> POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs
+ >> REQUEST(1547256598.9725645) {
+  "inputs": [
+    {
+      "data": {
+        "image": {
+          "url": "https://scontent-atl3-1.cdninstagram.com/vp/7a0ff5a736b940be204c47611657f7d5/5C3B4CB5/t50.2886-16/50419869_684730388589645_4653965728028819456_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com",
+          "allow_duplicate_url": false
+        }
+      }
+    }
+  ],
+  "model": {
+    "output_info": {
+      "output_config": {
+        "concepts_mutually_exclusive": false,
+        "closed_environment": false
+      }
+    }
+  }
+}
+ >> RESPONSE(1547256598.9725645) {
+  "status": {
+    "code": 10020,
+    "description": "Failure"
+  },
+  "outputs": [
+    {
+      "id": "d35dfebc7e5840528603bf3e2af49a6e",
+      "status": {
+        "code": 30300,
+        "description": "Input image decoding failed. Check URLs and bytes sent",
+        "details": "Backend service had unexpected error. Please contact support@clarifai.com with error code: 30300."
+      },
+      "created_at": "2019-01-12T01:29:58.789239663Z",
+      "model": {
+        "id": "eee28c313d69466f836ab83287a54ed9",
+        "name": "travel-v1.0",
+        "created_at": "2016-09-17T22:18:59.955626Z",
+        "app_id": "main",
+        "output_info": {
+          "message": "Show output_info with: GET /models/{model_id}/output_info",
+          "type": "concept",
+          "type_ext": "concept"
+        },
+        "model_version": {
+          "id": "d2ffbf9730fd41fea79063270847be82",
+          "created_at": "2016-09-17T22:18:59.955626Z",
+          "status": {
+            "code": 21100,
+            "description": "Model trained successfully"
+          },
+          "train_stats": {}
+        },
+        "display_name": "Travel"
+      },
+      "input": {
+        "id": "2882dac05b704d4d9cc9bbe5333ff655",
+        "data": {
+          "image": {
+            "url": "https://scontent-atl3-1.cdninstagram.com/vp/7a0ff5a736b940be204c47611657f7d5/5C3B4CB5/t50.2886-16/50419869_684730388589645_4653965728028819456_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com"
+          }
+        }
+      },
+      "data": {}
+    }
+  ]
+}
+ERROR [2019-01-12 01:29:58] [clean.em]  Image check error: 'NoneType' object is not iterable
+INFO [2019-01-12 01:29:58] [clean.em]  --> Not commented
+INFO [2019-01-12 01:30:00] [clean.em]  --> Followed 'b'highrockrealestate''!
+INFO [2019-01-12 01:30:04] [clean.em]  --> User gonna be interacted: 'highrockrealestate'
+INFO [2019-01-12 01:30:04] [clean.em]  Username [1/1]
+INFO [2019-01-12 01:30:04] [clean.em]  --> b'highrockrealestate'
+INFO [2019-01-12 01:30:07] [clean.em]  Getting highrockrealestate image list...
+INFO [2019-01-12 01:30:10] [clean.em]  ---> highrockrealestate has already been followed 1 times
+INFO [2019-01-12 01:30:10] [clean.em]  --> Not following
+INFO [2019-01-12 01:30:11] [clean.em]  Post [1/2]
+INFO [2019-01-12 01:30:11] [clean.em]  https://www.instagram.com/p/BiNNKrsnc-7/
+INFO [2019-01-12 01:30:14] [clean.em]  Image from: b'highrockrealestate'
+INFO [2019-01-12 01:30:14] [clean.em]  Link: b'https://www.instagram.com/p/BiNNKrsnc-7/'
+INFO [2019-01-12 01:30:14] [clean.em]  Description: b'Hey Florida! Take a look at this beautiful 5 bedroom remodel on desirable Clearwater Beach. Amazing location between the Gulf of Mexico and Mandalay Channel. Perfectly located in Carlouel. Fantastic opportunity to own and invest on an island with the top rated beach in the U.S. Follow listing link for information: https://www.zillow.com/homedetails/977-Bruce-Ave-Clearwater-FL-33767/47246585_zpid/\n\n#clearwaterbeach #clearwater #florida #gulfofmexico #carlouel #island #islandlife #bestbeach #number1 #beach #beachvacation #vacationhome #investment #remodeled #new #homeforsale #welcomehome #ocean #tripadvisor #newhome #realestate #floridarealestate #vacation #homeawayfromhome #fixandflip #islandrealestate #rent #rentalproperty'
+INFO [2019-01-12 01:30:14] [clean.em]  Location: b'Clearwater Beach, Fl - Gulf of Mexico'
+INFO [2019-01-12 01:30:16] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:30:18] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/2665cdf81b4261510e84698f82486797/5CC23EA5/t51.2885-15/e35/30830926_2177152795845661_909467734473965568_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['gift shop']
+INFO [2019-01-12 01:30:18] [clean.em]  --> Not commented
+INFO [2019-01-12 01:30:20] [clean.em]  Post [2/2]
+INFO [2019-01-12 01:30:20] [clean.em]  https://www.instagram.com/p/BoSSiFsFBpr/
+INFO [2019-01-12 01:30:23] [clean.em]  Image from: b'highrockrealestate'
+INFO [2019-01-12 01:30:23] [clean.em]  Link: b'https://www.instagram.com/p/BoSSiFsFBpr/'
+INFO [2019-01-12 01:30:23] [clean.em]  Description: b"New listing in Denver's Harvey Park South! 3 beds, 2 baths with office or conforming 4th bedroom and a finished basement. Easy walk to the elementary school and nearby park. Call Brad at 720.884.7359.\n\n#denver #denvercolorado #colorado #harveypark #harveyparksouth #remodel #gray #bright #openfloorplan #new #newlisting #realestate #realtor #denverrealtor #forsale #highrockrealestate #onepercentlisting #homeforsale #virtuance"
+INFO [2019-01-12 01:30:25] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:30:27] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/fd755fda205a6e6ce80d98306bcfa382/5CCA4FEF/t51.2885-15/e35/41533017_239505900059855_5771802075164908676_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+[]
+INFO [2019-01-12 01:30:28] [clean.em]  --> Not commented
+INFO [2019-01-12 01:30:28] [clean.em]  User: b'highrockrealestate'
+INFO [2019-01-12 01:30:28] [clean.em]  Liked: 2
+INFO [2019-01-12 01:30:28] [clean.em]  Already Liked: 0
+INFO [2019-01-12 01:30:28] [clean.em]  Commented: 0
+INFO [2019-01-12 01:30:28] [clean.em]  Inappropriate: 0
+INFO [2019-01-12 01:30:28] [clean.em]  Not valid users: 0
+
+INFO [2019-01-12 01:30:28] [clean.em]  [5/200]
+INFO [2019-01-12 01:30:28] [clean.em]  https://www.instagram.com/p/BshBeFxBvjG/
+INFO [2019-01-12 01:30:31] [clean.em]  Image from: b'dexterrealty'
+INFO [2019-01-12 01:30:31] [clean.em]  Link: b'https://www.instagram.com/p/BshBeFxBvjG/'
+INFO [2019-01-12 01:30:31] [clean.em]  Description: b'We love our new boardroom at our #SouthGranville Office. We believe that every meeting about real estate in #Vancouver should enjoy the amazing view of our city. #TheNextDexter #RealEstate #Dexter #Realtor #RealEstateAgents #Selling #Buying #vancity #REBGV #agentlife #lovewhereilive #lovewhereyouwork #joinus'
+INFO [2019-01-12 01:30:31] [clean.em]  Location: b'Dexter Realty'
+INFO [2019-01-12 01:30:38] [clean.em]  --> Image Liked!
+INFO [2019-01-12 01:30:41] [clean.em]  source_link ['https://scontent-atl3-1.cdninstagram.com/vp/8421af3a6ccc8fc593c10e5167eba74b/5CCAF3C3/t51.2885-15/e35/47586326_2669775859729413_2548852522383100373_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'] got predicted result(s):
+['chair']
+INFO [2019-01-12 01:30:41] [clean.em]  --> Commented: b'Looks good!'
+INFO [2019-01-12 01:30:44] [clean.em]  --> Followed 'b'dexterrealty''!
+INFO [2019-01-12 01:30:47] [clean.em]  --> User gonna be interacted: 'dexterrealty'
+INFO [2019-01-12 01:30:47] [clean.em]  Username [1/1]
+INFO [2019-01-12 01:30:47] [clean.em]  --> b'dexterrealty'
+INFO [2019-01-12 01:30:50] [clean.em]  Getting dexterrealty image list...
+INFO [2019-01-12 01:30:53] [clean.em]  ---> dexterrealty has already been followed 1 times
+INFO [2019-01-12 01:30:53] [clean.em]  --> Not following
+INFO [2019-01-12 01:30:55] [clean.em]  Post [1/2]
+INFO [2019-01-12 01:30:55] [clean.em]  https://www.instagram.com/p/Br_Lu5Jhz3u/
+INFO [2019-01-12 01:30:57] [clean.em]  Image from: b'dexterrealty'
+INFO [2019-01-12 01:30:57] [clean.em]  Link: b'https://www.instagram.com/p/Br_Lu5Jhz3u/'
+INFO [2019-01-12 01:30:57] [clean.em]  Description: b'#Repost @nickmoroso_yvrrealestate with @get_repost\n\xe3\x83\xbb\xe3\x83\xbb\xe3\x83\xbb\n205- 1928 East 11th \nVancouver B.C. $559,000\n\nOpen House 2-4 pm \nDecember 29 & 30 \nWonderful 1 bedroom corner unit in very well maintained building has been rain screened including newer roof, windows, doors, and balconies offering a worry free home. Located steps to SkyTrain and Trout Lake. This central location is perfect for the first time buyer. \n#openhouse @dexterrealty #forsale #firstimebuyer'
+INFO [2019-01-12 01:30:59] [clean.em]  --> Image Liked!
+ERROR [2019-01-12 01:31:27] [clean.em]  Image check error: POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs FAILED(1547256687.7816706). status_code: 400, reason: Bad Request, error_code: 10020, error_description: Failure, error_details: None
+ >> Python client 2.2.3 with Python 3.6.7 on linux
+ >> POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs
+ >> REQUEST(1547256687.7816706) {
+  "inputs": [
+    {
+      "data": {
+        "image": {
+          "url": "https://scontent-atl3-1.cdninstagram.com/vp/132ae0b4bbfab8c11a0ff504a841b8ae/5C3B9A87/t50.2886-16/49393374_516578918865822_2100828565019820032_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com",
+          "allow_duplicate_url": false
+        }
+      }
+    }
+  ],
+  "model": {
+    "output_info": {
+      "output_config": {
+        "concepts_mutually_exclusive": false,
+        "closed_environment": false
+      }
+    }
+  }
+}
+ >> RESPONSE(1547256687.7816706) {
+  "status": {
+    "code": 10020,
+    "description": "Failure"
+  },
+  "outputs": [
+    {
+      "id": "df5f9e69ee0b46919563b2d29bfdf361",
+      "status": {
+        "code": 30300,
+        "description": "Input image decoding failed. Check URLs and bytes sent",
+        "details": "Backend service had unexpected error. Please contact support@clarifai.com with error code: 30300."
+      },
+      "created_at": "2019-01-12T01:31:27.383655865Z",
+      "model": {
+        "id": "eee28c313d69466f836ab83287a54ed9",
+        "name": "travel-v1.0",
+        "created_at": "2016-09-17T22:18:59.955626Z",
+        "app_id": "main",
+        "output_info": {
+          "message": "Show output_info with: GET /models/{model_id}/output_info",
+          "type": "concept",
+          "type_ext": "concept"
+        },
+        "model_version": {
+          "id": "d2ffbf9730fd41fea79063270847be82",
+          "created_at": "2016-09-17T22:18:59.955626Z",
+          "status": {
+            "code": 21100,
+            "description": "Model trained successfully"
+          },
+          "train_stats": {}
+        },
+        "display_name": "Travel"
+      },
+      "input": {
+        "id": "73dc0a69b8444af1a1df16511f8830a4",
+        "data": {
+          "image": {
+            "url": "https://scontent-atl3-1.cdninstagram.com/vp/132ae0b4bbfab8c11a0ff504a841b8ae/5C3B9A87/t50.2886-16/49393374_516578918865822_2100828565019820032_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com"
+          }
+        }
+      },
+      "data": {}
+    }
+  ]
+}
+ERROR [2019-01-12 01:31:27] [clean.em]  Image check error: 'NoneType' object is not iterable
+INFO [2019-01-12 01:31:27] [clean.em]  --> Commented: b'Looks good!'
+INFO [2019-01-12 01:31:29] [clean.em]  Post [2/2]
+INFO [2019-01-12 01:31:29] [clean.em]  https://www.instagram.com/p/BshBeFxBvjG/
+INFO [2019-01-12 01:31:32] [clean.em]  Image from: b'dexterrealty'
+INFO [2019-01-12 01:31:32] [clean.em]  Link: b'https://www.instagram.com/p/BshBeFxBvjG/'
+INFO [2019-01-12 01:31:32] [clean.em]  Description: b'We love our new boardroom at our #SouthGranville Office. We believe that every meeting about real estate in #Vancouver should enjoy the amazing view of our city. #TheNextDexter #RealEstate #Dexter #Realtor #RealEstateAgents #Selling #Buying #vancity #REBGV #agentlife #lovewhereilive #lovewhereyouwork #joinus'
+INFO [2019-01-12 01:31:32] [clean.em]  Location: b'Dexter Realty'
+INFO [2019-01-12 01:31:57] [clean.em]  --> Image already liked!
+INFO [2019-01-12 01:31:57] [clean.em]  -------------
+INFO [2019-01-12 01:31:57] [clean.em]  --> Given amount not fullfilled, image pool reached its end
+
+INFO [2019-01-12 01:31:57] [clean.em]  User: b'dexterrealty'
+INFO [2019-01-12 01:31:57] [clean.em]  Liked: 1
+INFO [2019-01-12 01:31:57] [clean.em]  Already Liked: 1
+INFO [2019-01-12 01:31:57] [clean.em]  Commented: 1
+INFO [2019-01-12 01:31:57] [clean.em]  Inappropriate: 0
+INFO [2019-01-12 01:31:57] [clean.em]  Not valid users: 0
+
+INFO [2019-01-12 01:31:57] [clean.em]  [6/200]
+INFO [2019-01-12 01:31:57] [clean.em]  https://www.instagram.com/p/BshBXxSArsD/
+INFO [2019-01-12 01:32:00] [clean.em]  Image from: b'cosmocrat_interlomas'
+INFO [2019-01-12 01:32:00] [clean.em]  Link: b'https://www.instagram.com/p/BshBXxSArsD/'
+INFO [2019-01-12 01:32:00] [clean.em]  Description: b'En Cosmocrat Interlomas contamos con 2 torres de departamentos que tienen acceso a distintas amenidades\n.\n.\n.\n#departamentosenventa #inmobiliaria #realestate#bienesra\xc3\xadces #Interlomas'
+INFO [2019-01-12 01:32:07] [clean.em]  --> Image Liked!
+ERROR [2019-01-12 01:32:35] [clean.em]  Image check error: POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs FAILED(1547256755.6525996). status_code: 400, reason: Bad Request, error_code: 10020, error_description: Failure, error_details: None
+ >> Python client 2.2.3 with Python 3.6.7 on linux
+ >> POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs
+ >> REQUEST(1547256755.6525996) {
+  "inputs": [
+    {
+      "data": {
+        "image": {
+          "url": "https://scontent-atl3-1.cdninstagram.com/vp/9dad81a74ae9ef81a8a7b43c5c07d3c5/5C3BA5F2/t50.2886-16/50437851_742206346134701_4360733762448415005_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com",
+          "allow_duplicate_url": false
+        }
+      }
+    }
+  ],
+  "model": {
+    "output_info": {
+      "output_config": {
+        "concepts_mutually_exclusive": false,
+        "closed_environment": false
+      }
+    }
+  }
+}
+ >> RESPONSE(1547256755.6525996) {
+  "status": {
+    "code": 10020,
+    "description": "Failure"
+  },
+  "outputs": [
+    {
+      "id": "eb9e38d31bc6477397b8e948b12b0a70",
+      "status": {
+        "code": 30300,
+        "description": "Input image decoding failed. Check URLs and bytes sent",
+        "details": "Backend service had unexpected error. Please contact support@clarifai.com with error code: 30300."
+      },
+      "created_at": "2019-01-12T01:32:35.574413404Z",
+      "model": {
+        "id": "eee28c313d69466f836ab83287a54ed9",
+        "name": "travel-v1.0",
+        "created_at": "2016-09-17T22:18:59.955626Z",
+        "app_id": "main",
+        "output_info": {
+          "message": "Show output_info with: GET /models/{model_id}/output_info",
+          "type": "concept",
+          "type_ext": "concept"
+        },
+        "model_version": {
+          "id": "d2ffbf9730fd41fea79063270847be82",
+          "created_at": "2016-09-17T22:18:59.955626Z",
+          "status": {
+            "code": 21100,
+            "description": "Model trained successfully"
+          },
+          "train_stats": {}
+        },
+        "display_name": "Travel"
+      },
+      "input": {
+        "id": "53f23076a6ce4737ae110625ed89cbef",
+        "data": {
+          "image": {
+            "url": "https://scontent-atl3-1.cdninstagram.com/vp/9dad81a74ae9ef81a8a7b43c5c07d3c5/5C3BA5F2/t50.2886-16/50437851_742206346134701_4360733762448415005_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com"
+          }
+        }
+      },
+      "data": {}
+    }
+  ]
+}
+ERROR [2019-01-12 01:32:35] [clean.em]  Image check error: 'NoneType' object is not iterable
+INFO [2019-01-12 01:32:35] [clean.em]  --> Not commented
+INFO [2019-01-12 01:32:37] [clean.em]  --> Followed 'b'cosmocrat_interlomas''!
+INFO [2019-01-12 01:32:41] [clean.em]  --> User gonna be interacted: 'cosmocrat_interlomas'
+INFO [2019-01-12 01:32:41] [clean.em]  Username [1/1]
+INFO [2019-01-12 01:32:41] [clean.em]  --> b'cosmocrat_interlomas'
+INFO [2019-01-12 01:32:44] [clean.em]  Getting cosmocrat_interlomas image list...
+INFO [2019-01-12 01:32:49] [clean.em]  ---> cosmocrat_interlomas has already been followed 1 times
+INFO [2019-01-12 01:32:49] [clean.em]  --> Not following
+INFO [2019-01-12 01:32:50] [clean.em]  Post [1/2]
+INFO [2019-01-12 01:32:50] [clean.em]  https://www.instagram.com/p/Br6WyrcgpVJ/
+INFO [2019-01-12 01:32:52] [clean.em]  Image from: b'cosmocrat_interlomas'
+INFO [2019-01-12 01:32:52] [clean.em]  Link: b'https://www.instagram.com/p/Br6WyrcgpVJ/'
+INFO [2019-01-12 01:32:52] [clean.em]  Description: b'Nuestros departamentos tienen un costo de $55,000.00 MXN por m2. Con\xc3\xb3celos y aparta el tuyo\n.\n.\n.\n#Interlomas #departamentosenventa #realestate #inmobiliaria #househunting'
+INFO [2019-01-12 01:32:55] [clean.em]  --> Image Liked!
+ERROR [2019-01-12 01:33:23] [clean.em]  Image check error: POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs FAILED(1547256803.306798). status_code: 400, reason: Bad Request, error_code: 10020, error_description: Failure, error_details: None
+ >> Python client 2.2.3 with Python 3.6.7 on linux
+ >> POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs
+ >> REQUEST(1547256803.306798) {
+  "inputs": [
+    {
+      "data": {
+        "image": {
+          "url": "https://scontent-atl3-1.cdninstagram.com/vp/46db4f6879ecc014a5a3a926834e982f/5C3B5BF5/t50.2886-16/49516757_2159849280932161_3476713689337059191_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com",
+          "allow_duplicate_url": false
+        }
+      }
+    }
+  ],
+  "model": {
+    "output_info": {
+      "output_config": {
+        "concepts_mutually_exclusive": false,
+        "closed_environment": false
+      }
+    }
+  }
+}
+ >> RESPONSE(1547256803.306798) {
+  "status": {
+    "code": 10020,
+    "description": "Failure"
+  },
+  "outputs": [
+    {
+      "id": "3e121d62b1e642b793fb40b2bb420b86",
+      "status": {
+        "code": 30300,
+        "description": "Input image decoding failed. Check URLs and bytes sent",
+        "details": "Backend service had unexpected error. Please contact support@clarifai.com with error code: 30300."
+      },
+      "created_at": "2019-01-12T01:33:22.769265904Z",
+      "model": {
+        "id": "eee28c313d69466f836ab83287a54ed9",
+        "name": "travel-v1.0",
+        "created_at": "2016-09-17T22:18:59.955626Z",
+        "app_id": "main",
+        "output_info": {
+          "message": "Show output_info with: GET /models/{model_id}/output_info",
+          "type": "concept",
+          "type_ext": "concept"
+        },
+        "model_version": {
+          "id": "d2ffbf9730fd41fea79063270847be82",
+          "created_at": "2016-09-17T22:18:59.955626Z",
+          "status": {
+            "code": 21100,
+            "description": "Model trained successfully"
+          },
+          "train_stats": {}
+        },
+        "display_name": "Travel"
+      },
+      "input": {
+        "id": "b818ec70ee1d42ecaea95689e856787f",
+        "data": {
+          "image": {
+            "url": "https://scontent-atl3-1.cdninstagram.com/vp/46db4f6879ecc014a5a3a926834e982f/5C3B5BF5/t50.2886-16/49516757_2159849280932161_3476713689337059191_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com"
+          }
+        }
+      },
+      "data": {}
+    }
+  ]
+}
+ERROR [2019-01-12 01:33:23] [clean.em]  Image check error: 'NoneType' object is not iterable
+INFO [2019-01-12 01:33:23] [clean.em]  --> Commented: b'Cool!'
+INFO [2019-01-12 01:33:25] [clean.em]  Post [2/2]
+INFO [2019-01-12 01:33:25] [clean.em]  https://www.instagram.com/p/Bq_D1cVgyr2/
+INFO [2019-01-12 01:33:28] [clean.em]  Image from: b'cosmocrat_interlomas'
+INFO [2019-01-12 01:33:28] [clean.em]  Link: b'https://www.instagram.com/p/Bq_D1cVgyr2/'
+INFO [2019-01-12 01:33:28] [clean.em]  Description: b'Cosmocrat Interlomas es un proyecto de Grupo Eco, empresa con m\xc3\xa1s de 35 a\xc3\xb1os de experiencia en #desarrolloinmobiliario\n.\n.\n.\n#Interlomas #departamentosenventa #realestate #inversiones #bienesraices'
+INFO [2019-01-12 01:33:30] [clean.em]  --> Image Liked!
+ERROR [2019-01-12 01:33:58] [clean.em]  Image check error: POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs FAILED(1547256838.1459086). status_code: 400, reason: Bad Request, error_code: 10020, error_description: Failure, error_details: None
+ >> Python client 2.2.3 with Python 3.6.7 on linux
+ >> POST https://api.clarifai.com/v2/models/eee28c313d69466f836ab83287a54ed9/versions/d2ffbf9730fd41fea79063270847be82/outputs
+ >> REQUEST(1547256838.1459086) {
+  "inputs": [
+    {
+      "data": {
+        "image": {
+          "url": "https://scontent-atl3-1.cdninstagram.com/vp/539e4d0e06918c0cc9a779f99e4f2005/5C3C6DE9/t50.2886-16/47369511_1583855291761352_4524481133286739626_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com",
+          "allow_duplicate_url": false
+        }
+      }
+    }
+  ],
+  "model": {
+    "output_info": {
+      "output_config": {
+        "concepts_mutually_exclusive": false,
+        "closed_environment": false
+      }
+    }
+  }
+}
+ >> RESPONSE(1547256838.1459086) {
+  "status": {
+    "code": 10020,
+    "description": "Failure"
+  },
+  "outputs": [
+    {
+      "id": "7e21b81b906a472493b327b76f60cc62",
+      "status": {
+        "code": 30300,
+        "description": "Input image decoding failed. Check URLs and bytes sent",
+        "details": "Backend service had unexpected error. Please contact support@clarifai.com with error code: 30300."
+      },
+      "created_at": "2019-01-12T01:33:57.885234180Z",
+      "model": {
+        "id": "eee28c313d69466f836ab83287a54ed9",
+        "name": "travel-v1.0",
+        "created_at": "2016-09-17T22:18:59.955626Z",
+        "app_id": "main",
+        "output_info": {
+          "message": "Show output_info with: GET /models/{model_id}/output_info",
+          "type": "concept",
+          "type_ext": "concept"
+        },
+        "model_version": {
+          "id": "d2ffbf9730fd41fea79063270847be82",
+          "created_at": "2016-09-17T22:18:59.955626Z",
+          "status": {
+            "code": 21100,
+            "description": "Model trained successfully"
+          },
+          "train_stats": {}
+        },
+        "display_name": "Travel"
+      },
+      "input": {
+        "id": "4a4cd8f097da4da2a0a3a1ac7fe59dd6",
+        "data": {
+          "image": {
+            "url": "https://scontent-atl3-1.cdninstagram.com/vp/539e4d0e06918c0cc9a779f99e4f2005/5C3C6DE9/t50.2886-16/47369511_1583855291761352_4524481133286739626_n.mp4?_nc_ht=scontent-atl3-1.cdninstagram.com"
+          }
+        }
+      },
+      "data": {}
+    }
+  ]
+}
+ERROR [2019-01-12 01:33:58] [clean.em]  Image check error: 'NoneType' object is not iterable
+INFO [2019-01-12 01:33:58] [clean.em]  --> Not commented
+INFO [2019-01-12 01:33:59] [clean.em]  User: b'cosmocrat_interlomas'
+INFO [2019-01-12 01:33:59] [clean.em]  Liked: 2
+INFO [2019-01-12 01:33:59] [clean.em]  Already Liked: 0
+INFO [2019-01-12 01:33:59] [clean.em]  Commented: 1
+INFO [2019-01-12 01:33:59] [clean.em]  Inappropriate: 0
+INFO [2019-01-12 01:33:59] [clean.em]  Not valid users: 0
+
+INFO [2019-01-12 01:33:59] [clean.em]  [7/200]
+INFO [2019-01-12 01:33:59] [clean.em]  https://www.instagram.com/p/BshBdSFgXgg/
+INFO [2019-01-12 01:34:02] [clean.em]  Image from: b'rigidinspections'
+INFO [2019-01-12 01:34:02] [clean.em]  Link: b'https://www.instagram.com/p/BshBdSFgXgg/'
+INFO [2019-01-12 01:34:02] [clean.em]  Description: b'A common theme in the area is having a sliding glass door on the rear of the building. Another common theme is improper installation of the sliding glass door. As you can see this one has completely rotted out. I make sure to always check in the basement area at the rim joists and subfloor below these doors because most of the time they are rotted out too (see 2nd picture of the rotted rim joist and subfloor). I could stick a screw driver right through it\n.\n.\n.\n.\n#woodrot #homeinspections #homeinspection #realestate #realty #houseinspection #inspector #inspection #ashi #certifiedinspector #internachi #homeinspector #homemaintenance #housemaintenance #hometips #homebuyingtips #homerepairs #homerepair #homebuying #homerepairtips #stlrealestate #stlouisrealestate #illinoisrealestate'
+INFO [2019-01-12 01:34:09] [clean.em]  --> Image Liked!
