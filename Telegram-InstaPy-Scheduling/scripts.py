@@ -40,13 +40,13 @@ def massiveunfollow(InstaPy, username, password, proxy=None):
 
 def massivefollow(InstaPy, username, password, proxy=None):
     try:
-        CLARIFAI_API_KEY="8da494ee7d5a4421ab7373e2d3563969"
+        CLARIFAI_API_KEY="9a0aa075d58f406f81361ae68f1657c7"
         session = InstaPy(username='clean.em', password='haye12345', disable_image_load=True, multi_logs=True,  bypass_suspicious_attempt=True, headless_browser=True, nogui=True)
         session.login()
         session.set_relationship_bounds(enabled=True, delimit_by_numbers=False, potency_ratio=0.0, max_followers=12000, max_following=4500, min_followers=35, min_following=35)
         session.set_user_interact(amount=2, randomize=True, percentage=80, media='Photo')
         session.set_do_follow(enabled=True, percentage=100)
-        session.set_do_comment(enabled=True, percentage=25)
+        session.set_do_comment(enabled=True, percentage=40)
         session.set_do_like(enabled=True, percentage=100)
         #session.set_comments([u"Beautiful place!😍😍😍 @{}", u"Nice photo!💯💯💯 !@{}", u"You have a nice page!🔥🔥🔥 @{}"], media='Photo')
         session.set_skip_users(skip_no_profile_pic=True,
@@ -69,8 +69,10 @@ def massivefollow(InstaPy, username, password, proxy=None):
         session.clarifai_check_img_for(['food & beverages'], comment=True, comments=["Yummy!", "Tasty!"])
         session.clarifai_check_img_for(['view'], comment=True, comments=[u"Nice view!🔥🔥🔥"])
         session.clarifai_check_img_for(['bedroom'], comment=True, comments=[u"Nice bedroom!🤩🤩🤩"])
+        session.clarifai_check_img_for(['desk'], comment=True, comments=[u"Nice desk!🔥🔥🔥 @{}"])
+        session.clarifai_check_img_for(['beach'], comment=True, comments=[u"Nice beach! 🤩🤩🤩@{}"])
+
         #session.set_do_comment(enabled=False, percentage=80)
-        #session.set_user_interact(amount=2, randomize=True, percentage=100, media='Photo')
         
         # Quota Supervisor
 
@@ -81,6 +83,10 @@ def massivefollow(InstaPy, username, password, proxy=None):
                                  peak_unfollows=(50, None),
                                   peak_server_calls=(500, None))
 
+        
+        # Smart Hashtags
+
+        session.set_smart_hashtags(['utaustin','hookem','apartment','airbnb'], limit=1, sort='top', log_tags=True)
 
         # activity
 
@@ -88,7 +94,6 @@ def massivefollow(InstaPy, username, password, proxy=None):
         #session.follow_user_followers(['user1', 'user2', 'user3'], amount=8000, randomize=False, interact=True)
         #session.unfollow_users(amount=1000, nonFollowers=True, style="LIFO", unfollow_after=0, sleep_delay=501)
         #session.unfollow_users(amount=1000, InstapyFollowed=(True, "all"), style="FIFO", unfollow_after=0, sleep_delay=501)
-        session.set_smart_hashtags(['clean','apartment','airbnb','austin'], limit=1, sort='top', log_tags=True)
         session.like_by_tags(amount=100, use_smart_hashtags=True, interact=True)
         session.end()
     except:
@@ -101,3 +106,4 @@ functions = [f for fname, f in sorted(globals().items()) if callable(f)]
 scripts = {}
 for function in functions:
     scripts[str(function.__name__).lower()] = function
+#!/usr/bin/env python3
